@@ -1,4 +1,5 @@
-
+link 
+https://nervespark.streamlit.app/
 # Multi-Document Legal Research Assistant ⚖️
 
 This project is a **Retrieval-Augmented Generation (RAG)** system built to analyze multiple legal documents and provide contextual answers to legal queries. It leverages a modern tech stack to deliver fast, accurate, and cited responses, making legal research more efficient.
